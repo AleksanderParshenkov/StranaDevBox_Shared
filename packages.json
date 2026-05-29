@@ -6,6 +6,13 @@
       "latestVersion": "1.0.4",
       "id": "SDWinTools",
       "description": "Инструменты для Windows (управление окнами, утилиты)"
+    },
+    {
+      "id": "SDRevTools",
+      "name": "StranaDev Revit Tools",
+      "description": "Инструменты для Revit (лента, команды)",
+      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/v1.0.1/SDRevTools_Setup_1.0.1.exe",
+      "latestVersion": "1.0.1"
     }
   ]
 }
