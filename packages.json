@@ -1,9 +1,9 @@
 {
   "packages": [
     {
-      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/v1.0.3/SDWinTools_Setup_1.0.3.exe",
+      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/v1.0.4/SDWinTools_Setup_1.0.4.exe",
       "name": "StranaDev Windows Tools",
-      "latestVersion": "1.0.3",
+      "latestVersion": "1.0.4",
       "id": "SDWinTools",
       "description": "Инструменты для Windows (управление окнами, утилиты)"
     }
