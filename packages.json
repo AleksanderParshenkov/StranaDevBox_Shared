@@ -11,8 +11,8 @@
       "id": "SDRevTools",
       "name": "StranaDev Revit Tools",
       "description": "Инструменты для Revit (лента, команды)",
-      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/v1.0.9/SDRevTools_Setup_1.0.9.exe",
-      "latestVersion": "1.0.9"
+      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/v1.0.10/SDRevTools_Setup_1.0.10.exe",
+      "latestVersion": "1.0.10"
     }
   ]
 }
