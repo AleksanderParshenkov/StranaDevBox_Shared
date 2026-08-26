@@ -13,6 +13,13 @@
       "description": "Инструменты для Revit (лента, команды)",
       "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDRevTools-v1.0.15/SDRevTools_Setup_1.0.15.exe",
       "latestVersion": "1.0.15"
+    },
+    {
+      "latestVersion": "1.0.4",
+      "description": "Инструмент проверки модели Revit",
+      "id": "SDRevChecker",
+      "name": "StranaDev Revit Checker",
+      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDRevChecker-v1.0.4/SDRevChecker_Setup_1.0.4.exe"
     }
   ]
 }
