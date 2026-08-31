@@ -1,11 +1,11 @@
 {
   "packages": [
     {
-      "latestVersion": "1.0.7",
+      "latestVersion": "1.0.8",
       "description": "Инструмент проверки модели Revit",
       "id": "SDRevChecker",
       "name": "StranaDev Revit Checker",
-      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDRevChecker-v1.0.7/SDRevChecker_Setup_1.0.7.exe"
+      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDRevChecker-v1.0.8/SDRevChecker_Setup_1.0.8.exe"
     }
   ]
 }
