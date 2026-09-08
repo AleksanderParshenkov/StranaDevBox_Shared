@@ -8,10 +8,10 @@
       "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDRevChecker-v1.0.8/SDRevChecker_Setup_1.0.8.exe"
     },
     {
-      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDRevTools-v1.0.17/SDRevTools_Setup_1.0.17.exe",
+      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDRevTools-v1.0.18/SDRevTools_Setup_1.0.18.exe",
       "name": "StranaDev Revit Tools",
       "description": "Инструменты для Revit (лента, команды)",
-      "latestVersion": "1.0.17",
+      "latestVersion": "1.0.18",
       "id": "SDRevTools"
     }
   ]
