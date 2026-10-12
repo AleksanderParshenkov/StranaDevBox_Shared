@@ -5,10 +5,10 @@
       "description": "Инструмент проверки модели Revit",
       "id": "SDRevChecker",
       "name": "StranaDev Revit Checker",
-      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDRevChecker-v1.0.11/SDRevChecker_Setup_1.0.11.exe"
+      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDRevChecker/SDRevChecker_Setup.exe"
     },
     {
-      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDRevTools-v1.0.18/SDRevTools_Setup_1.0.18.exe",
+      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDRevTools/SDRevTools_Setup.exe",
       "name": "StranaDev Revit Tools",
       "description": "Инструменты для Revit (лента, команды)",
       "latestVersion": "1.0.18",
@@ -16,7 +16,7 @@
     },
     {
       "name": "StranaDev Windows Tools",
-      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDWinTools-v1.0.6/SDWinTools_Setup_1.0.6.exe",
+      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDWinTools/SDWinTools_Setup.exe",
       "latestVersion": "1.0.6",
       "id": "SDWinTools",
       "description": "Инструменты для Windows (управление окнами, утилиты)"
