@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "latestVersion": "1.0.12",
+      "latestVersion": "1.0.13",
       "description": "Инструмент проверки модели Revit",
       "id": "SDRevChecker",
       "name": "StranaDev Revit Checker",
