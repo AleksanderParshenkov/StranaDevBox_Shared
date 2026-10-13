@@ -15,11 +15,11 @@
       "id": "SDRevTools"
     },
     {
-      "name": "StranaDev Windows Tools",
-      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDWinTools/SDWinTools_Setup.exe",
-      "latestVersion": "1.0.8",
-      "id": "SDWinTools",
-      "description": "Инструменты для Windows (управление окнами, утилиты)"
+      "latestVersion": "1.0.9",
+      "id": "SDBimSupportTools",
+      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDBimSupportTools/SDBimSupportTools_Setup.exe",
+      "name": "StranaDev BIM Support Tools",
+      "description": "Инструменты координации и поддержки BIM"
     }
   ]
 }
