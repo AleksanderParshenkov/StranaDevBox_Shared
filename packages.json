@@ -20,6 +20,13 @@
       "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDBimSupportTools/SDBimSupportTools_Setup.exe",
       "name": "StranaDev BIM Support Tools",
       "description": "Инструменты координации и поддержки BIM"
+    },
+    {
+      "latestVersion": "1.0.1",
+      "description": "Инструменты аналитики BIM-моделей",
+      "name": "StranaDev BIM Analytics Tools",
+      "id": "SDAnalyticsTools",
+      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDAnalyticsTools/SDAnalyticsTools_Setup.exe"
     }
   ]
 }
