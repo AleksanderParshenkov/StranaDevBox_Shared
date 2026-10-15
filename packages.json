@@ -1,20 +1,6 @@
 {
   "packages": [
     {
-      "latestVersion": "1.0.13",
-      "description": "Инструмент проверки модели Revit",
-      "id": "SDRevChecker",
-      "name": "StranaDev Revit Checker",
-      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDRevChecker/SDRevChecker_Setup.exe"
-    },
-    {
-      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDRevTools/SDRevTools_Setup.exe",
-      "name": "StranaDev Revit Tools",
-      "description": "Инструменты для Revit (лента, команды)",
-      "latestVersion": "1.0.23",
-      "id": "SDRevTools"
-    },
-    {
       "latestVersion": "1.0.9",
       "id": "SDBimSupportTools",
       "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDBimSupportTools/SDBimSupportTools_Setup.exe",
@@ -27,6 +13,13 @@
       "name": "StranaDev BIM Analytics Tools",
       "id": "SDAnalyticsTools",
       "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDAnalyticsTools/SDAnalyticsTools_Setup.exe"
+    },
+    {
+      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDToolsForRevit/SDToolsForRevit_Setup.exe",
+      "name": "StranaDev Tools for Revit",
+      "description": "Единый набор инструментов для Autodesk Revit: аудит моделей и координация",
+      "latestVersion": "1.0.25",
+      "id": "SDToolsForRevit"
     }
   ]
 }
