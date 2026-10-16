@@ -8,8 +8,8 @@
       "description": "Инструменты координации и поддержки BIM"
     },
     {
-      "latestVersion": "1.0.5",
-      "description": "Инструменты аналитики BIM-моделей",
+      "latestVersion": "1.0.6",
+      "description": "Аналитика BIM-моделей",
       "name": "StranaDev BIM Analytics Tools",
       "id": "SDAnalyticsTools",
       "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDAnalyticsTools/SDAnalyticsTools_Setup.exe"
