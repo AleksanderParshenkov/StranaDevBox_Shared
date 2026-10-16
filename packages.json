@@ -20,6 +20,13 @@
       "description": "Единый набор инструментов для Autodesk Revit: аудит моделей и координация",
       "latestVersion": "1.0.25",
       "id": "SDToolsForRevit"
+    },
+    {
+      "description": "Менеджер пакетов StranaDev",
+      "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/StranaDevBox/StranaDevBox_Setup.exe",
+      "name": "StranaDevBox",
+      "id": "StranaDevBox",
+      "latestVersion": "1.0.12"
     }
   ]
 }
