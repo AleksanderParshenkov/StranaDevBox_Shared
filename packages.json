@@ -8,7 +8,7 @@
       "description": "Инструменты координации и поддержки BIM"
     },
     {
-      "latestVersion": "1.0.7",
+      "latestVersion": "1.0.8",
       "description": "Аналитика BIM-моделей",
       "name": "StranaDev BIM Analytics Tools",
       "id": "SDAnalyticsTools",
