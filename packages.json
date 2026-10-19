@@ -17,8 +17,8 @@
     {
       "downloadUrl": "https://github.com/AleksanderParshenkov/StranaDevBox_Shared/releases/download/SDToolsForRevit/SDToolsForRevit_Setup.exe",
       "name": "StranaDev Tools for Revit",
-      "description": "Единый набор инструментов для Autodesk Revit: аудит моделей и координация",
-      "latestVersion": "1.0.25",
+      "description": "Аудит моделей Revit и координация",
+      "latestVersion": "1.0.26",
       "id": "SDToolsForRevit"
     }
   ]
